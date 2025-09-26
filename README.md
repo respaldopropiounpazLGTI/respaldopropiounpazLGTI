@@ -1,1 +1,6 @@
-¡Hola! Soy Alejandro, estudiante de la Licenciatura en Gestión de la Información (LGTI) Aquí muestro mis proyectos personales de código libre, y además, en mi canal de YouTube, ofrezco material de apoyo y tutoriales sobre programación con Python y otros recursos de la carrera LGTI: https://youtube.com/@alejandro1204?si=ydcikxHHG4InwwyL
+Hola, soy Cristian Alejandro Perez.
+
+Estudiante de la Licenciatura en Gestión de la Información (LGTI).
+
+Mi canal de YouTube con material de apoyo:
+https://youtube.com/@alejandro1204?si=ydcikxHHG4InwwyL
