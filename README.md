@@ -1,4 +1,4 @@
-# 👋 Hola, soy **Cristián Alejandro Pérez**
+# 👋 Hola, soy Alejandro 
 
 Soy estudiante de **Licenciatura en Gestión de Tecnologías de la Información (LGTI)** en la **UNPAZ**.  
 En este perfil voy compartiendo algunas cosas que voy haciendo mientras avanzo en la carrera y en los cursos que tomo.
